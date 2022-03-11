@@ -262,8 +262,8 @@ table tr td{
   text-align: left;
 
 }
-table{
- 
+table th{
+  border: 1px solid black;
   margin: auto;
   margin-bottom: 25px;
 }
